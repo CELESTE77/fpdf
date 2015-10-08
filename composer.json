@@ -1,0 +1,11 @@
+{
+    "name": "lsolesen/fpdf"
+    "description": "[Unofficial] FPDF Library. Pdf Generator.",
+	"homepage": "https://www.fpdf.org",
+    "authors": [
+        {
+            "name": "Olivier Plathey"
+        }
+    ],
+    "require": {}
+}
